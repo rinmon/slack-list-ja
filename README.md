@@ -1,10 +1,10 @@
 # slack-list-ja
 
-A handpicked selection of top Slack communities in japan
+📋  A handpicked selection of top Slack communities in japan
 
 ## Contribute
 
-Please add your slack team to https://github.com/bokuweb/slack-list-ja/blob/gh-pages/teams.json
+Please add your slack team to [teams.json](https://github.com/bokuweb/slack-list-ja/blob/gh-pages/teams.json)
 
 ## License
 
