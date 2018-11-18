@@ -228,12 +228,6 @@
         "tag": ["Dart","Web"]
     },
     {
-        "name": "ruby-on-rails-jp",
-        "url": "https://ruby-on-rails-jp.herokuapp.com",
-        "description": "日本のRyby on Railsユーザーのためのコミュニティ",
-        "tag": ["Ruby on Rails","Web","Ruby"]
-    },
-    {
         "name": "React Japan",
         "url": "https://react-japan-invite.herokuapp.com/ ",
         "description": "React.jsユーザーのための日本語Slackチーム",
