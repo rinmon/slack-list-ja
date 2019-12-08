@@ -353,4 +353,10 @@
 	"description": "エンジニア・デザイナーのためのコミュニティです。設立1ヶ月（10/8時点）で150人を突破しました。毎日ワイワイしています！",
 	"tag": ["adbe_xd","aws","azure","bootstrap","sharp","c","cakephp","css","database","docker","dreamweaver","firebase","gcp","go","html","illustrator","java","javascript","jquery","kotlin","larvel","macos","mysql","node","photoshop","php","python","react","rhel","ruby_on_rails","ruby","scala","sqlite","swift","ubuntu","unity","unixコマンド","uxデザイン","vue","windows","wordpress","質問"]
     }
+    {
+	"name": "CHOTTO NEWS",
+	"url": "https://join.slack.com/t/chottonews/shared_invite/enQtODY0Mjg4NTMwMjI5LTJhMzg3NWI3NmQwZTZkZjhkZDQzNmQ5ODYwNDJlZjVjMjIyM2M1M2NlZGQ2ZTE0MWU3NDU3NDZjZjk3OTM3NzQ",
+	"description": "Facebookを始めとした多くのSNS、ブログ等を通じて情報発信しているコミュニティーの雑談的な場所です。ワイワイしましょう！",
+	"tag": ["news","gag","community","ワイワイ","ガヤガヤ","雑談","出来事","ゴシップ"]
+    }
 ]
