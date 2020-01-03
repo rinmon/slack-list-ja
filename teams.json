@@ -352,5 +352,11 @@
 	"url": "https://join.slack.com/t/ismet-izumeto/shared_invite/enQtNzgwNjgwMzQ2MjczLTU4OWFhYTFjN2M5OTk3NTlkNzU4Mjk2YzkzMmQwZTZjYjYxMjUwMjJlODI2ZjUxZmU0MjhkM2FkNmIyMWFkODE",
 	"description": "エンジニア・デザイナーのためのコミュニティです。設立1ヶ月（10/8時点）で150人を突破しました。毎日ワイワイしています！",
 	"tag": ["adbe_xd","aws","azure","bootstrap","sharp","c","cakephp","css","database","docker","dreamweaver","firebase","gcp","go","html","illustrator","java","javascript","jquery","kotlin","larvel","macos","mysql","node","photoshop","php","python","react","rhel","ruby_on_rails","ruby","scala","sqlite","swift","ubuntu","unity","unixコマンド","uxデザイン","vue","windows","wordpress","質問"]
+    },
+    {
+        "name": "ちょっとニュース",
+        "url": "https://chottonews.slack.com/messages/C2005MHRV/details/",
+        "description": "メールマガジン「ちょっとニュース」から派生したSlackサイト。楽しく雑談しましょう。",
+        "tag": ["news", "NPO", "雑談"]
     }
 ]
